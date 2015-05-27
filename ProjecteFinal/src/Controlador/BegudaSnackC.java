@@ -11,6 +11,7 @@ public class BegudaSnackC {
   }
 
   public List<BegudaSnack>() {
+        //linia afegida per jepi provant github
   }
 
 }
